@@ -20,15 +20,15 @@ At Pre Next, we believe that technology is the key to unlocking the future. Our 
 
 ### 🌟 Styled-Next.js UI Kit for Next.js
 
-A comprehensive UI kit designed for Next.js applications. This project aims to provide a rich set of reusable components and styles, helping developers build stunning web applications with ease and efficiency. Check it out [here](https://github.com/TechGeniusOrg/styled-nextjs-ui-kit).
+A comprehensive UI kit designed for Next.js applications. This project aims to provide a rich set of reusable components and styles, helping developers build stunning web applications with ease and efficiency. Check it out [here](https://github.com/prenext/styled-nextjs).
 
 ### 📅 Organiser - A Task Management App
 
-Organiser is a powerful task management application that helps individuals and teams stay organised and productive. With a user-friendly interface and advanced features, it simplifies the process of managing tasks and projects. Explore Organiser [here](https://github.com/TechGeniusOrg/organiser).
+Organiser is a powerful task management application that helps individuals and teams stay organised and productive. With a user-friendly interface and advanced features, it simplifies the process of managing tasks and projects. Explore Organiser [here](https://github.com/prenext/organiser).
 
 ### 🎓 Yulearna - Learning with YouTube
 
-Yulearna is an innovative platform that leverages YouTube for educational purposes. It curates and organises educational content from YouTube, making it easier for users to learn new skills and knowledge. Dive into Yulearna [here](https://github.com/TechGeniusOrg/yulearna).
+Yulearna is an innovative platform that leverages YouTube for educational purposes. It curates and organises educational content from YouTube, making it easier for users to learn new skills and knowledge. Dive into Yulearna [here](https://github.com/prenext/yulearna).
 
 ## Join Us on Our Journey
 
