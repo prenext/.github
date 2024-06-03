@@ -2,25 +2,19 @@
 
 ## Core Expertise
 
-- **Web Technologies**: Robust web applications.
-- **AI**: Intelligent systems for better experiences.
-- **UI/UX Design**: Intuitive and delightful interfaces.
-- **Mobile Apps**: Solutions for connectivity and engagement.
-- **Innovative Tech**: Exploring new frontiers.
+- 🌐 **Web Technologies**: Robust web applications.
+- 🤖 **AI**: Intelligent systems for better experiences.
+- 🎨 **UI/UX Design**: Intuitive and delightful interfaces.
+- 📱 **Mobile Apps**: Solutions for connectivity and engagement.
+- 🚀 **Innovative Tech**: Exploring new frontiers.
 
 ## Featured Projects
 
-### 🌟 Styled-Next.js UI Kit
+### 🌟 Styled-Next.js UI Kit - Reusable components and styles for Next.js. [Explore](https://github.com/prenext/styled-nextjs)
 
-Reusable components and styles for Next.js. [Explore](https://github.com/prenext/styled-nextjs)
+### 📅 Organiser - Task management app for productivity. [Explore](https://github.com/prenext/organiser)
 
-### 📅 Organiser
-
-Task management app for productivity. [Explore](https://github.com/prenext/organiser)
-
-### 🎓 Yulearna
-
-Learning platform using YouTube. [Explore](https://github.com/prenext/yulearna)
+### 🎓 Yulearna - Learning platform using YouTube. [Explore](https://github.com/prenext/yulearna)
 
 ## Join Us
 
